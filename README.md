@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 🔐 Cybersecurity Lab Environment Setup
 
@@ -204,8 +204,6 @@ I learned that documenting commands, configuration, screenshots, problems, and s
 # 🔐 Security & Ethical Use
 
 This laboratory is intended strictly for education purposes only.
-
----
 
 
 
